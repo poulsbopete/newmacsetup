@@ -24,10 +24,13 @@ brew install geoip
 brew install bash-completion
 brew install watch
 brew install hugo
+brew install node
+brew install watchman
 ```
 
 ## Misc tools install
 ```
 go get golang.org/x/tools/cmd/godoc
 go get github.com/golang/lint/golint
+npm install -g react-native-cli
 ```
