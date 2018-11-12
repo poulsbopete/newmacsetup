@@ -15,7 +15,6 @@ brew cask install google-chrome
 brew install git
 brew install go
 brew install awscli
-brew install
 brew install htop
 brew install wget
 brew install nmap
